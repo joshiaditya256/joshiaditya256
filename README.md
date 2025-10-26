@@ -12,7 +12,7 @@
 <h2 align="left">🧩 What I'm working on</h2>
 
 <p align="left">
-  🚀 Building: <b>stock price prediction</b> & <b></b><br>
+  🚀 Building: <b>stock price prediction</b> <b></b><br>
   🧠 Exploring: <b>Machine Learning</b>, <b>FastAPI</b>, and <b>Quantitative Finance</b><br>
   🌐 Goal: Create tech that connects people, data, and purpose.
 </p>
