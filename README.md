@@ -47,11 +47,11 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats</h2>
+<!-- <h2 align="left">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joshiaditya256&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshiaditya256&theme=tokyonight" height="180"/>
-</div>
+</div> -->
 
 ###
 
